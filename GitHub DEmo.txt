@@ -11,3 +11,7 @@ Author: Gowtham
 4.Attachments Code
 
 5.Hide last seen Code
+
+6.Adding Audio Call feature
+
+7.Adding Video Call feature
